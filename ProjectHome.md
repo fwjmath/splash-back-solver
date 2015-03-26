@@ -1,0 +1,1 @@
+This is a solver of the Flash game Splash Back, a game with a structure similar to that of chip-firing game, using a not-so-standard decision tree search algorithm with homemade heuristics and evaluation functions. This solver is purely experimental, but may provide insights into other chip-firing-alike games and how we can construct critical phenomenon.
